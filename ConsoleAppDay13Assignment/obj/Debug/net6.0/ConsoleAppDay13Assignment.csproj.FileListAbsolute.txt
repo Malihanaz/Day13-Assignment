@@ -1,0 +1,14 @@
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.AssemblyInfoInputs.cache
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.AssemblyInfo.cs
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\bin\Debug\net6.0\ConsoleAppDay13Assignment.exe
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\bin\Debug\net6.0\ConsoleAppDay13Assignment.deps.json
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\bin\Debug\net6.0\ConsoleAppDay13Assignment.runtimeconfig.json
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\bin\Debug\net6.0\ConsoleAppDay13Assignment.dll
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\bin\Debug\net6.0\ConsoleAppDay13Assignment.pdb
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.dll
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\refint\ConsoleAppDay13Assignment.dll
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.pdb
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ConsoleAppDay13Assignment.genruntimeconfig.cache
+C:\simplilearn\Day13\ConsoleAppDay13Assignment\ConsoleAppDay13Assignment\obj\Debug\net6.0\ref\ConsoleAppDay13Assignment.dll
